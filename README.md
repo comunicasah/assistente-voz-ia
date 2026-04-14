@@ -22,6 +22,6 @@ pip install -r requirements.txt
 2. Execute o projeto:
 python main.py
 
-## 💡 Aplicação
+##  Aplicação
 
 Este projeto pode ser aplicado em soluções de acessibilidade, inclusão digital e assistentes virtuais.
