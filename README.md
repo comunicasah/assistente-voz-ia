@@ -25,3 +25,7 @@ python main.py
 ##  Aplicação
 
 Este projeto pode ser aplicado em soluções de acessibilidade, inclusão digital e assistentes virtuais.
+
+## Demonstração
+
+![Demonstração do projeto](print_projeto1.jpg)(print_projeto2.jpg)
