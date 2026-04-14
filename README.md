@@ -28,4 +28,6 @@ Este projeto pode ser aplicado em soluções de acessibilidade, inclusão digita
 
 ## Demonstração
 
-![Demonstração do projeto](print_projeto1.jpeg)(print_projeto2.jpeg)
+![Print 1](print_projeto1.jpeg)
+
+![Print 2](print_projeto2.jpeg)
