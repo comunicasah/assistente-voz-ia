@@ -1,20 +1,20 @@
-# 🎤 Assistente de Voz com IA
+#  Assistente de Voz com IA
 
 Este projeto demonstra um sistema que converte áudio em texto e gera respostas em voz utilizando Inteligência Artificial.
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - Transcrição de áudio (Speech-to-Text)
 - Geração de resposta automática
 - Conversão de texto em áudio (Text-to-Speech)
 
-## 🧠 Tecnologias
+##  Tecnologias
 
 - Python
 - Whisper
 - gTTS
 
-## ⚙️ Como executar
+##  Como executar
 
 1. Instale as dependências:
 pip install -r requirements.txt
